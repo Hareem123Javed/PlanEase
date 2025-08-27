@@ -79,7 +79,7 @@ PlanEase is a modern landing page for a digital planner product. The design emph
 
 ---
 
-## 📱 Responsiveness
+##  Responsiveness
 
 * Breakpoints at **980px**, **768px**, and **560px** for optimal experience on desktop, tablet, and mobile.
 * Content reflows into **single-column layouts** on small screens.
